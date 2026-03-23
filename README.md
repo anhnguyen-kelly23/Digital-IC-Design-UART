@@ -57,8 +57,9 @@ The design enables asynchronous serial communication between two devices without
 ---
 
 ## 4. Project Structure
-├── src/ # Verilog source code (UART_TX, UART_RX, TOP)
-├── testbench/ # Simulation testbench and test cases
+├── src/         
+
+├── testbench/  
 
 ---
 
